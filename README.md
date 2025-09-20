@@ -1,0 +1,5 @@
+# personalized-career-skills-advisor
+
+A web-based platform that provides personalized career guidance and skill development recommendations.
+Users enter their interests, education, and skills, and the system suggests career paths, courses, and skills to improve.
+Integrates AI/logic-based analysis to match user profile with opportunities.
